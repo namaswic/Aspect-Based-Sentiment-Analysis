@@ -1,3 +1,5 @@
+#CS583 DATA MINING AND TEXT MINING
+#authors-Namaswi Chandarana(nchand22@uic.edu),Vanisre Jaiswal(vjaisw2@uic.edu)
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
