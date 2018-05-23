@@ -31,7 +31,7 @@ for i in range(0, total_rows):
     corpus.append(review)
 
 
-#dependency parsing
+#dependency parsing using spacey
 import spacy
 import en_core_web_sm
 nlp = en_core_web_sm.load()
