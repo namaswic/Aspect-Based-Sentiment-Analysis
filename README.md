@@ -1,7 +1,7 @@
 # Aspect-Based-Sentimental-Analysis
-#CS583 DATA MINING AND TEXT MINING  
-#Authors-Namaswi Chandarana(nchand22@uic.edu),Vanisre Jaiswal(vjaisw2@uic.edu)  
-Our Task: Given an aspect term (also called opinion target) in a sentence, predict the sentiment label for the aspect term in the sentence. 
+<h1>#CS583 DATA MINING AND TEXT MINING</h1>  
+<h1>#Authors-Namaswi Chandarana(nchand22@uic.edu),Vanisre Jaiswal(vjaisw2@uic.edu) </h1>
+<p>Our Task: Given an aspect term (also called opinion target) in a sentence, predict the sentiment label for the aspect term in the sentence. 
 
 The description of each column is as fellows:
 Column A: review sentence id
@@ -18,7 +18,7 @@ Typical Workflow:
 Evaluation:
 1. Results are generated via 10-fold cross validation. 
 2. Computed following metrics by taking average over 10 folds-
-Accuracy and avg. precision, avg. recall and avg. F1 scores for each of the three classes- { positive, negative, neutral } and for each of the two training dataset {data_1, data_2}.
+Accuracy and avg. precision, avg. recall and avg. F1 scores for each of the three classes- { positive, negative, neutral } and for each of the two training dataset {data_1, data_2}.</p>
 
  
 
